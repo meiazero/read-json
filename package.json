@@ -1,0 +1,8 @@
+{
+  "name": "read-json",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch main.js",
+    "start": "node main.js"
+  }
+}
