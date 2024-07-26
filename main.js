@@ -49,6 +49,7 @@ class JsonParser {
   }
 }
 
+// Example usage
 const jsonParser = new JsonParser('./my-json.json');
 const key = jsonParser.parse().key;
 
